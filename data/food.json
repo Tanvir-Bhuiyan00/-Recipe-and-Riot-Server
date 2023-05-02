@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "food_image": "https://i.ibb.co/Tbb53F4/easy-pran-curry.webp",
+    "food_title": "Easy Pran Curry"
+  },
+  {
+    "id": 2,
+    "food_image": "https://i.ibb.co/vswFGCC/Crispy-salmon-tacos.webp",
+    "food_title": "Crispy Salmon Tacos"
+  },
+  {
+    "id": 3,
+    "food_image": "https://i.ibb.co/YbVsGv9/Cheat-s-fish-chips.webp",
+    "food_title": "Cheat's Fish Chips"
+  },
+  {
+    "id": 4,
+    "food_image": "https://i.ibb.co/mXqbGK3/Spicy-veggie-noodles.webp",
+    "food_title": "Spicy Veggie Noodles"
+  },
+  {
+    "id": 5,
+    "food_image": "https://i.ibb.co/VWRhHYr/Sweet-potato-white-bean-chilli.webp",
+    "food_title": "Sweet Potato White Bean Chilli"
+  },
+  {
+    "id": 6,
+    "food_image": "https://i.ibb.co/m6HbnvR/Special-scrambled-eggs.webp",
+    "food_title": "Special Scrambled Eggs"
+  },
+  {
+    "id": 7,
+    "food_image": "https://i.ibb.co/K0nF09D/Easy-rustic-gnocchi.webp",
+    "food_title": "Easy Rustic Gnocchi"
+  }
+]

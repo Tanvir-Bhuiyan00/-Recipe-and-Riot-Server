@@ -7,6 +7,8 @@ const posts = require("./data/food_posts.json");
 
 const chef = require("./data/chef.json");
 
+const food = require("./data/food.json");
+
 app.use(cors());
 
 app.get("/", (req, res) => {
@@ -19,6 +21,10 @@ app.get("/posts", (req, res) => {
 
 app.get("/chef", (req, res) => {
   res.send(chef);
+});
+
+app.get("/food", (req, res) => {
+  res.send(food);
 });
 
 app.get("/chef/:id", (req, res) => {
