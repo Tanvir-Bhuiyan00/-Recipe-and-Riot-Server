@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "chef_picture": [
       "https://i.ibb.co/bgtpwrF/Alain-Ducasse-1.jpg",
       "https://i.ibb.co/GQgH9yH/Alain-Ducasse-2.jpg"
@@ -37,7 +37,7 @@
     }
   },
   {
-    "id": 2,
+    "id": "2",
     "chef_picture": [
       "https://i.ibb.co/C0sMvPz/Pierre-Gagnaire-1.jpg",
       "https://i.ibb.co/vV6bmpN/Pierre-Gagnaire-2.jpg"
@@ -74,7 +74,7 @@
     }
   },
   {
-    "id": 3,
+    "id": "3",
     "chef_picture": [
       "https://i.ibb.co/pR0YsYK/Martin-Berasategui-1.jpg",
       "https://i.ibb.co/QD5S24F/Martin-Berasategui-2.jpg"
@@ -111,7 +111,7 @@
     }
   },
   {
-    "id": 4,
+    "id": "4",
     "chef_picture": [
       "https://i.ibb.co/4gkBVwn/Yannick-Alleno-1.jpg",
       "https://i.ibb.co/B4wNRfT/Yannick-Alleno-2.jpg"
@@ -148,7 +148,7 @@
     }
   },
   {
-    "id": 5,
+    "id": "5",
     "chef_picture": [
       "https://i.ibb.co/SR6qXw8/Anne-Sophie-Pic-1.jpg",
       "https://i.ibb.co/VLPPSHj/Anne-Sophie-Pic-2.jpg"
@@ -185,7 +185,7 @@
     }
   },
   {
-    "id": 6,
+    "id": "6",
     "chef_picture": [
       "https://i.ibb.co/q9RQhSz/Gordon-Ramsay-1.jpg",
       "https://i.ibb.co/4ZTKkb0/Gordon-Ramsay-2.jpg"
