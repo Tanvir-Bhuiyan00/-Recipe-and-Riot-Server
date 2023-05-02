@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "image_url": "https://i.ibb.co/nj5T66q/2-1-345x345.jpg",
+    "food_name": "PIZZA",
+    "post_title": "Healthy Homemade Pizza with a glass of drinks",
+    "user_img": "https://i.ibb.co/sKmW45Q/37.jpg",
+    "user_name": "John",
+    "viewers": 1200
+  },
+  {
+    "id": 2,
+    "image_url": "https://i.ibb.co/4jRPsG3/1-320x320.jpg",
+    "food_name": "SALAD",
+    "post_title": "Spicy Salmon Salad Sandwiches Recipe",
+    "user_img": "https://i.ibb.co/fG4swpJ/39-1.jpg",
+    "user_name": "Sarah",
+    "viewers": 980
+  },
+  {
+    "id": 3,
+    "image_url": "https://i.ibb.co/KrLm93s/1-1-345x345.jpg",
+    "food_name": "PIZZA",
+    "post_title": "Healthy Pizza for fitness with broccoli and basil",
+    "user_img": "https://i.ibb.co/QvR33zz/25.jpg",
+    "user_name": "Mike",
+    "viewers": 1500
+  },
+  {
+    "id": 4,
+    "image_url": "https://i.ibb.co/X79NhMt/11-345x345.jpg",
+    "food_name": "DESSERTS",
+    "post_title": "Strawberry, Kiwi and Spinach Salad Recipe",
+    "user_img": "https://i.ibb.co/X4ZCZFr/90.jpg",
+    "user_name": "Jasmine",
+    "viewers": 2000
+  },
+  {
+    "id": 5,
+    "image_url": "https://i.ibb.co/fqNkYBh/7-345x345.jpg",
+    "food_name": "SALAD",
+    "post_title": "Easy Salmon Brown Rice Pasta Salad",
+    "user_img": "https://i.ibb.co/FxwzzsP/89.jpg",
+    "user_name": "Mark",
+    "viewers": 800
+  },
+  {
+    "id": 6,
+    "image_url": "https://i.ibb.co/KXR4htn/9-345x345.jpg",
+    "food_name": "BURGERS",
+    "post_title": "Spicy Cauliflower Burgers and Salad Recipe",
+    "user_img": "https://i.ibb.co/2hfp6C8/85.jpg",
+    "user_name": "Emily",
+    "viewers": 1200
+  },
+  {
+    "id": 7,
+    "image_url": "https://i.ibb.co/C5Q8Vsr/6-345x345.jpg",
+    "food_name": "DESSERTS",
+    "post_title": "Awesome Cake with Cream Cheese Frosting",
+    "user_img": "https://i.ibb.co/PNpfMqx/80.jpg",
+    "user_name": "David",
+    "viewers": 600
+  },
+  {
+    "id": 8,
+    "image_url": "https://i.ibb.co/Xt7pDb8/5-345x345.jpg",
+    "food_name": "DESSERTS",
+    "post_title": "Chocolate Mint Dessert Brownies Recipe",
+    "user_img": "https://i.ibb.co/KX41Lj1/70.jpg",
+    "user_name": "Katie",
+    "viewers": 1000
+  },
+  {
+    "id": 9,
+    "image_url": "https://i.ibb.co/W6ftGKk/4-345x345.jpg",
+    "food_name": "PIZZA",
+    "post_title": "Unbelievably Awesome Barbeque Chicken Pizza",
+    "user_img": "https://i.ibb.co/Gkdg7zr/59.jpg",
+    "user_name": "Tom",
+    "viewers": 500
+  },
+  {
+    "id": 10,
+    "image_url": "https://i.ibb.co/DfnBbGB/4-2-345x345.jpg",
+    "food_name": "CHICKEN",
+    "post_title": "Chef John’s Chicken and Mushrooms Recipe",
+    "user_img": "https://i.ibb.co/0yD57Yd/54.jpg",
+    "user_name": "Natalie",
+    "viewers": 700
+  },
+  {
+    "id": 11,
+    "image_url": "https://i.ibb.co/rsPYRnF/2-3-345x345.jpg",
+    "food_name": "PIZZA",
+    "post_title": "Preparing Healthy Fitness Broccoli Pie with Basil",
+    "user_img": "https://i.ibb.co/dKGFC8c/39.jpg",
+    "user_name": "Peter",
+    "viewers": 1100
+  },
+  {
+    "id": 12,
+    "image_url": "https://i.ibb.co/BnsKqs9/2-345x345.jpg",
+    "food_name": "DESSERTS",
+    "post_title": "Thai Noodle Salad with Peanut Lime Dressing",
+    "user_img": "https://i.ibb.co/jJjHpQT/57.jpg",
+    "user_name": "Lena",
+    "viewers": 900
+  }
+]
