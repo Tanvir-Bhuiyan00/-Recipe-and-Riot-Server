@@ -2,32 +2,35 @@
   {
     "id": "1",
     "chef_picture": [
-      "https://i.ibb.co/bgtpwrF/Alain-Ducasse-1.jpg",
-      "https://i.ibb.co/GQgH9yH/Alain-Ducasse-2.jpg"
+      "https://i.ibb.co/X20m2GG/Alain-Ducasse-4-2560x2463.jpg",
+      "https://i.ibb.co/p226QBp/ducasse-2048x1152.jpg"
     ],
     "chef_name": "Alain Ducasse",
     "experience": "More than 35 years",
     "bio_description": "Alain Ducasse is one of the most celebrated chefs in the world, with more than 35 years of experience in the industry. He has opened more than 30 restaurants around the globe and has been awarded 21 Michelin stars in total.",
-    "Likes": 5000,
+    "likes": 5000,
     "recipes": {
       "recipes_number": 3,
       "recipes_details": [
         {
-          "recipe_img": "https://i.ibb.co/wp1VtrB/Seared-Duck-Foie-Gras.jpg",
+          "_id": "1",
+          "recipe_img": "https://i.ibb.co/qkwwtPr/Seared-Duck-Foie-Gras-1200x800.jpg",
           "recipe_name": "Seared Duck Foie Gras",
           "ingredients": "duck foie gras, sea salt, black pepper, brioche, fig compote, balsamic vinegar",
           "cooking_method": "Season foie gras with sea salt and black pepper. Heat a non-stick skillet over high heat. When hot, add foie gras and cook for 30-45 seconds on each side until caramelized. Toast brioche and top with fig compote. Place foie gras on top and drizzle with balsamic vinegar. Serve immediately.",
           "rating": 4.9
         },
         {
-          "recipe_img": "https://i.ibb.co/PcLsfNv/Roasted-Squab-with-Foie-Gras-and-Truffles.jpg",
+          "_id": "2",
+          "recipe_img": "https://i.ibb.co/M8mcYqS/Roasted-Squab-with-Foie-Gras-and-Truffles-1200x800.jpg",
           "recipe_name": "Roasted Squab with Foie Gras and Truffles",
           "ingredients": "squab, duck foie gras, black truffle, chicken stock, butter, salt, black pepper, turnips, carrots, garlic, shallots",
           "cooking_method": "Preheat oven to 400°F. Season squab with salt and pepper. In a skillet, sear squab until browned on both sides. Transfer to a baking dish and roast in the oven for 8-10 minutes. Meanwhile, slice foie gras and truffle. In a separate pan, heat chicken stock and butter until reduced. Add foie gras and truffle and cook for 1-2 minutes until foie gras is cooked through. In a separate pan, cook turnips, carrots, garlic, and shallots until tender. Serve squab with foie gras and truffle sauce, along with the roasted vegetables.",
           "rating": 4.8
         },
         {
-          "recipe_img": "https://i.ibb.co/H79smnR/Lobster-Salad-with-Mango-and-Avocado.jpg",
+          "_id": "3",
+          "recipe_img": "https://i.ibb.co/Phg9KZY/Lobster-Salad-with-Mango-and-Avocado-1200x800.jpg",
           "recipe_name": "Lobster Salad with Mango and Avocado",
           "ingredients": "lobster tail, mango, avocado, lime juice, olive oil, salt, black pepper, red onion, cherry tomatoes, cilantro",
           "cooking_method": "Cook lobster tail in boiling water for 5-6 minutes until cooked through. Remove from water and let cool. Cut mango, avocado, and red onion into small cubes. Cut cherry tomatoes in half. In a bowl, mix mango, avocado, red onion, cherry tomatoes, cilantro, lime juice, olive oil, salt, and pepper. Cut lobster tail into bite-sized pieces and add to bowl. Toss well and serve.",
@@ -39,32 +42,35 @@
   {
     "id": "2",
     "chef_picture": [
-      "https://i.ibb.co/C0sMvPz/Pierre-Gagnaire-1.jpg",
-      "https://i.ibb.co/vV6bmpN/Pierre-Gagnaire-2.jpg"
+      "https://i.ibb.co/6yFttRC/Pierre-Gagnaire-1-2560x2463.jpg",
+      "https://i.ibb.co/V33yk6N/Pierre-Gagnaire-2-2048x1152.jpg"
     ],
     "chef_name": "Pierre Gagnaire",
     "experience": "40 years",
     "bio_description": "Pierre Gagnaire is a French Michelin-starred chef with over 40 years of experience in the culinary industry.",
-    "Likes": 15000,
+    "likes": 15000,
     "recipes": {
       "recipes_number": 3,
       "recipes_details": [
         {
-          "recipe_img": "https://i.ibb.co/MhVf3BP/Roast-Chicken-with-Lemon-and-Thyme-2.jpg",
+          "_id": "1",
+          "recipe_img": "https://i.ibb.co/FVNcCbT/Roast-Chicken-with-Lemon-and-Thyme-2-1200x800.jpg",
           "recipe_name": "Roast chicken with lemon and thyme",
           "ingredients": "1 whole chicken, 1 lemon, 1 bunch of fresh thyme, 5 cloves of garlic, 2 tbsp olive oil, salt, pepper",
           "cooking_method": "1. Preheat the oven to 200C/180C fan/gas 6. 2. Cut the lemon in half and put it inside the chicken along with the thyme and 3 cloves of garlic. 3. Rub the chicken with olive oil and sprinkle with salt and pepper. 4. Roast the chicken in the oven for about 1 hour 20 minutes or until cooked through. 5. Let it rest for 10 minutes before carving.",
           "rating": 4.5
         },
         {
-          "recipe_img": "https://i.ibb.co/Gx5bVCW/Beef-bourguignon.webp",
+          "_id": "2",
+          "recipe_img": "https://i.ibb.co/phHKnCg/Beef-bourguignon-1200x800.webp",
           "recipe_name": "Beef bourguignon",
           "ingredients": "1 kg beef chuck, 200 g bacon, 1 onion, 2 carrots, 2 celery stalks, 3 cloves of garlic, 1 bottle of red wine, 500 ml beef stock, 2 tbsp tomato paste, 1 tsp thyme, 2 bay leaves, salt, pepper",
           "cooking_method": "1. Cut the beef into large cubes and season with salt and pepper. 2. Fry the bacon in a large pot until crispy, then remove from the pot. 3. Fry the beef in the bacon fat until browned on all sides, then remove from the pot. 4. Fry the chopped onion, carrot, celery and garlic until softened. 5. Add the tomato paste, thyme, bay leaves and fry for a minute. 6. Pour in the wine and bring to a boil. 7. Return the beef and bacon to the pot and add the beef stock. 8. Simmer for 2-3 hours or until the beef is tender. 9. Serve with mashed potatoes or crusty bread.",
           "rating": 4.2
         },
         {
-          "recipe_img": "https://i.ibb.co/D1T5mfK/Chocolate-mousse.webp",
+          "_id": "3",
+          "recipe_img": "https://i.ibb.co/5FqyNLW/Chocolate-mousse-1200x800.webp",
           "recipe_name": "Chocolate mousse",
           "ingredients": "200 g dark chocolate, 4 eggs, 50 g caster sugar, 150 ml double cream, 1 tsp vanilla extract",
           "cooking_method": "1. Melt the chocolate in a heatproof bowl over a pan of simmering water. 2. Separate the eggs and whisk the yolks with the sugar until pale and thick. 3. Add the melted chocolate and vanilla extract to the egg yolks and mix well. 4. In a separate bowl, whisk the egg whites until stiff peaks form. 5. In another bowl, whisk the double cream until thick. 6. Fold the egg whites into the chocolate mixture, then fold in the whipped cream. 7. Spoon the mixture into individual glasses or a large bowl.",
@@ -76,32 +82,35 @@
   {
     "id": "3",
     "chef_picture": [
-      "https://i.ibb.co/pR0YsYK/Martin-Berasategui-1.jpg",
-      "https://i.ibb.co/QD5S24F/Martin-Berasategui-2.jpg"
+      "https://i.ibb.co/1b1P2gC/Martin-Berasategui-1-2560x2463.jpg",
+      "https://i.ibb.co/p0f7G4g/Martin-Berasategui-2-2048x1152.jpg"
     ],
     "chef_name": "Martin Berasategui",
     "experience": "40+ years",
     "bio_description": "Martin Berasategui is a Spanish chef with over 40 years of experience. He is known for his innovative cooking techniques and his 12 Michelin stars.",
-    "Likes": 5000,
+    "likes": 5000,
     "recipes": {
       "recipes_number": 3,
       "recipes_details": [
         {
-          "recipe_img": "https://i.ibb.co/TbqP0xf/Grilled-Lobster-with-Garlic-and-Parsley.jpg",
+          "_id": "1",
+          "recipe_img": "https://i.ibb.co/cLn8JZ1/Grilled-Lobster-with-Garlic-and-Parsley-1200x800.jpg",
           "recipe_name": "Grilled Lobster with Garlic and Parsley",
           "ingredients": "lobster, garlic, parsley, olive oil, lemon, salt, pepper",
           "cooking_method": "1. Preheat the grill. 2. Brush the lobster with olive oil and season with salt and pepper. 3. Grill the lobster for about 5-6 minutes on each side, until the meat is opaque and firm. 4. Remove from grill and drizzle with garlic and parsley sauce. 5. Serve hot with lemon wedges.",
           "rating": 4.5
         },
         {
-          "recipe_img": "https://i.ibb.co/gV8dnW9/Roasted-Lamb-with-Rosemary-and-Garlic.webp",
+          "_id": "2",
+          "recipe_img": "https://i.ibb.co/YRY8Cnc/Roasted-Lamb-with-Rosemary-and-Garlic-1200x800.webp",
           "recipe_name": "Roasted Lamb with Rosemary and Garlic",
           "ingredients": "lamb, rosemary, garlic, olive oil, potatoes, carrots, onion",
           "cooking_method": "1. Preheat the oven to 375°F. 2. Season the lamb with salt, pepper, rosemary and garlic. 3. In a roasting pan, arrange the lamb, potatoes, carrots and onion. 4. Drizzle with olive oil. 5. Roast in the oven for about 1 hour or until the lamb is cooked to your liking. 6. Let the lamb rest for 10 minutes before serving.",
           "rating": 4.7
         },
         {
-          "recipe_img": "https://i.ibb.co/Y7kLVjd/Braised-Beef-Short-Ribs-with-Red-Wine-Sauce.webp",
+          "_id": "3",
+          "recipe_img": "https://i.ibb.co/vmNV8vg/Braised-Beef-Short-Ribs-with-Red-Wine-Sauce-1200x800.webp",
           "recipe_name": "Braised Beef Short Ribs with Red Wine Sauce",
           "ingredients": "beef short ribs, red wine, beef broth, carrots, onion, celery, garlic, thyme, rosemary, bay leaf, olive oil, salt, pepper",
           "cooking_method": "1. Preheat the oven to 325°F. 2. Season the beef short ribs with salt and pepper. 3. In a large Dutch oven, heat olive oil over medium-high heat. 4. Brown the short ribs on all sides. 5. Remove the short ribs from the pan and set aside. 6. In the same pan, sauté carrots, onion, celery and garlic until softened. 7. Add red wine, beef broth, thyme, rosemary and bay leaf. 8. Bring to a simmer. 9. Return the short ribs to the pan, cover and bake in the oven for about 2 1/2 hours or until the meat is tender. 10. Remove the short ribs from the pan and keep them warm. 11. Strain the sauce through a fine-mesh sieve and return it to the pan. 12. Simmer the sauce until it thickens.",
@@ -114,7 +123,7 @@
     "id": "4",
     "chef_picture": [
       "https://i.ibb.co/4gkBVwn/Yannick-Alleno-1.jpg",
-      "https://i.ibb.co/B4wNRfT/Yannick-Alleno-2.jpg"
+      "https://i.ibb.co/St1C06b/Yannick-Alleno-2-2048x1152.jpg"
     ],
     "chef_name": "Yannick Alléno",
     "experience": "30+ years",
@@ -124,21 +133,24 @@
       "recipes_number": 3,
       "recipes_details": [
         {
-          "recipe_img": "https://i.ibb.co/Fs2JS2w/Seafood-Paella.webp",
+          "_id": "1",
+          "recipe_img": "https://i.ibb.co/RggTG2Q/Seafood-Paella-1200x800.webp",
           "recipe_name": "Seafood Paella",
           "ingredients": "1 onion, 2 garlic cloves, 2 tomatoes, 1 red pepper, 1 green pepper, 1 yellow pepper, 500g mixed seafood (mussels, clams, prawns, squid), 300g bomba rice, 1 tsp smoked paprika, 1 pinch saffron threads, 1L fish stock, 1 lemon",
           "cooking_method": "1. Heat the oil in a paella pan over medium heat. 2. Add the onion and garlic and cook for 2-3 minutes until softened. 3. Add the tomatoes and peppers and cook for 5-6 minutes until softened. 4. Add the seafood and rice and stir well to combine. 5. Sprinkle over the smoked paprika and saffron threads and pour in the fish stock. 6. Bring to a boil, then reduce the heat to low and simmer for 20-25 minutes until the rice is tender. 7. Squeeze over the lemon juice and serve.",
           "rating": 4.5
         },
         {
-          "recipe_img": "https://i.ibb.co/58kz25n/Roast-chicken-with-lemon-and-thyme.jpg",
+          "_id": "2",
+          "recipe_img": "https://i.ibb.co/Kx0gcg6/Roast-chicken-with-lemon-and-thyme-1200x800.jpg",
           "recipe_name": "Roast Chicken with Lemon and Thyme",
           "ingredients": "1 whole chicken, 1 lemon, 1 bunch fresh thyme, 6 garlic cloves, 2 tbsp olive oil, 1 tsp sea salt, 1/2 tsp black pepper",
           "cooking_method": "1. Preheat the oven to 200°C. 2. Cut the lemon into quarters and stuff inside the chicken cavity along with the thyme and garlic cloves. 3. Rub the outside of the chicken with olive oil and season with salt and pepper. 4. Roast in the oven for 1 hour and 15 minutes, or until the chicken is cooked through and the juices run clear. 5. Let the chicken rest for 10 minutes before carving and serving.",
           "rating": 4.2
         },
         {
-          "recipe_img": "https://i.ibb.co/4mvQ4mh/Lamb-and-Chickpea-Tagine.jpg",
+          "_id": "3",
+          "recipe_img": "https://i.ibb.co/W663mQ2/Lamb-and-Chickpea-Tagine-1-1200x800.jpg",
           "recipe_name": "Lamb and Chickpea Tagine",
           "ingredients": "500g lamb shoulder, 2 onions, 4 garlic cloves, 1 tbsp ground cumin, 1 tbsp ground coriander, 1 tsp ground cinnamon, 1 tsp paprika, 1/2 tsp ground ginger, 1/2 tsp cayenne pepper, 400g can chopped tomatoes, 400g can chickpeas, 1 lemon, 1 bunch fresh coriander",
           "cooking_method": "1. Heat the oil in a large casserole dish over medium heat. 2. Add the lamb and cook for 5-6 minutes until browned on all..",
@@ -150,7 +162,7 @@
   {
     "id": "5",
     "chef_picture": [
-      "https://i.ibb.co/SR6qXw8/Anne-Sophie-Pic-1.jpg",
+      "https://i.ibb.co/DkJ6zhr/Anne-Sophie-Pic-1-2560x2463.jpg",
       "https://i.ibb.co/VLPPSHj/Anne-Sophie-Pic-2.jpg"
     ],
     "chef_name": "Anne-Sophie Pic",
@@ -161,6 +173,7 @@
       "recipes_number": 3,
       "recipes_details": [
         {
+          "_id": "1",
           "recipe_img": "https://i.ibb.co/j80JFzZ/Salmon-with-Fennel-and-Orange.jpg",
           "recipe_name": "Salmon with Fennel and Orange",
           "ingredients": "4 salmon fillets, 1 fennel bulb, 1 orange, 1 lemon, 2 tbsp olive oil, 1 tsp honey, salt and pepper",
@@ -168,14 +181,16 @@
           "rating": 4.7
         },
         {
-          "recipe_img": "https://i.ibb.co/J2S90gj/Lobster-Risotto.webp",
+          "_id": "2",
+          "recipe_img": "https://i.ibb.co/0p7pPGq/Lobster-Risotto-1-1200x800.webp",
           "recipe_name": "Lobster Risotto",
           "ingredients": "2 lobsters, 1 onion, 2 garlic cloves, 300g arborio rice, 1 glass white wine, 1L fish stock, 1 lemon, 1 bunch fresh parsley, 2 tbsp olive oil, salt and pepper",
           "cooking_method": "1. Boil the lobsters in a large pot of salted water for 8-10 minutes, until cooked through. 2. Remove the meat from the shells and chop into bite-sized pieces. 3. In a separate pan, heat the olive oil and sauté the onion and garlic until softened. 4. Add the arborio rice and stir until coated in the oil. 5. Pour in the white wine and let it evaporate. 6. Gradually add the fish stock, stirring constantly, until the rice is cooked through and the liquid is absorbed. 7. Add the lobster meat and parsley to the risotto and stir well to combine. 8. Serve hot with a squeeze of lemon juice.",
           "rating": 4.5
         },
         {
-          "recipe_img": "https://i.ibb.co/jH20GhX/Beef-Tenderloin-with-Truffle-Sauce.jpg",
+          "_id": "3",
+          "recipe_img": "https://i.ibb.co/94bv1rm/Beef-Tenderloin-with-Truffle-Sauce-1200x800.jpg",
           "recipe_name": "Beef Tenderloin with Truffle Sauce",
           "ingredients": "4 beef tenderloin steaks, 1 shallot, 2 garlic cloves, 200ml heavy cream, 1 tbsp truffle oil, 50g black truffle, 2 tbsp olive oil, salt and pepper",
           "cooking_method": "1. Season the beef steaks with salt and pepper. 2. Heat the olive oil in a pan and cook the steaks for 2-3 minutes on each side, until browned. 3. Remove the steaks from the pan and keep warm.",
@@ -187,8 +202,8 @@
   {
     "id": "6",
     "chef_picture": [
-      "https://i.ibb.co/q9RQhSz/Gordon-Ramsay-1.jpg",
-      "https://i.ibb.co/4ZTKkb0/Gordon-Ramsay-2.jpg"
+      "https://i.ibb.co/qnFjdT6/Gordon-Ramsay-1-2560x2463.jpg",
+      "https://i.ibb.co/6sTkPk2/Gordon-Ramsay-2-2048x1152.jpg"
     ],
     "chef_name": "Gordon Ramsay",
     "experience": "30+ years",
@@ -198,21 +213,24 @@
       "recipes_number": 3,
       "recipes_details": [
         {
-          "recipe_img": "https://i.ibb.co/wB11XJK/Pan-Seared-Salmon-with-Garlic-and-Lemon.jpg",
+          "_id": "1",
+          "recipe_img": "https://i.ibb.co/0qFLJ6G/Pan-Seared-Salmon-with-Garlic-and-Lemon-1200x800.jpg",
           "recipe_name": "Pan-Seared Salmon with Garlic and Lemon",
           "ingredients": "4 salmon fillets, 4 garlic cloves, 1 lemon, 2 tbsp olive oil, 2 tbsp butter, salt and pepper",
           "cooking_method": "1. Heat the olive oil in a large pan over medium-high heat. 2. Season the salmon fillets with salt and pepper, then place them in the pan skin-side down. 3. Cook for 4-5 minutes on each side, until browned and crispy. 4. Crush the garlic cloves with the flat side of a knife and add them to the pan with the butter. 5. Squeeze the lemon juice over the salmon and garlic, then stir gently to combine. 6. Serve immediately.",
           "rating": 4.8
         },
         {
-          "recipe_img": "https://i.ibb.co/3C1pXbD/Beef-Wellington.jpg",
+          "_id": "2",
+          "recipe_img": "https://i.ibb.co/D4PKdny/Beef-Wellington-1200x800.jpg",
           "recipe_name": "Beef Wellington",
           "ingredients": "1 beef tenderloin, 1 package puff pastry, 1/2 lb mushrooms, 2 garlic cloves, 1 onion, 2 tbsp butter, 1 egg, salt and pepper",
           "cooking_method": "1. Preheat the oven to 200°C. 2. Season the beef tenderloin with salt and pepper, then sear it in a hot pan for 2-3 minutes on each side. 3. Remove from the pan and let it cool. 4. Finely chop the mushrooms, garlic, and onion, then sauté them in the butter until softened. 5. Roll out the puff pastry and place the seared beef tenderloin in the center. 6. Spoon the mushroom mixture over the beef, then fold the pastry over to enclose it. 7. Beat the egg and brush it over the pastry. 8. Bake in the oven for 30-35 minutes, until the pastry is golden brown and the beef is cooked to your liking. 9. Let it rest for 5 minutes before slicing and serving.",
           "rating": 4.7
         },
         {
-          "recipe_img": "https://i.ibb.co/xDMF12r/Lamb-Chops-with-Rosemary-and-Garlic.jpg",
+          "_id": "3",
+          "recipe_img": "https://i.ibb.co/PwMRK0q/Lamb-Chops-with-Rosemary-and-Garlic-1200x800.jpg",
           "recipe_name": "Lamb Chops with Rosemary and Garlic",
           "ingredients": "8 lamb chops, 4 garlic cloves, 2 sprigs fresh rosemary, 2 tbsp olive oil, 2 tbsp balsamic vinegar, salt and pepper",
           "cooking_method": "1. Preheat the oven to 200°C. 2. Crush the garlic cloves and strip the rosemary leaves from the stems. 3. Rub the lamb chops with the garlic, rosemary, olive oil, salt, and pepper. 4. Heat a large oven-safe pan over high heat and sear the lamb chops for 2-3 minutes on each side",
